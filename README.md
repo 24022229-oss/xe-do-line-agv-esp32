@@ -71,9 +71,11 @@ Tất cả GND (pin, L298N, ESP32, cảm biến) phải nối chung.
 
 ## Video demo
 
-[Dán link video tại đây]
+(https://drive.google.com/drive/folders/1AAkhNHe29Zgi0aS5RCXZPsySmRqBll1B?usp=sharing )
 
 ## Thông tin nhóm
 
 - Đề tài: Thiết kế và chế tạo xe tự hành dò line vận chuyển hàng qua các trạm, tránh vật cản và điều khiển qua WiFi dùng ESP32
-- Thành viên: [Điền họ tên – MSSV]
+- Thành viên: Võ Anh Tuấn - 24022229
+              Phan Văn Quang - 24022198
+
